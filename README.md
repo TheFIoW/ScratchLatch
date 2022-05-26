@@ -2,7 +2,7 @@
 #### Scratch and Python bridge
 ----------------------------------------------
 ## **install**
-##### ***[use command in console]***
+##### ***[use command in shell]***
 > pip install ScratchLatch
 ----------------------------------------------
 ## **import**
